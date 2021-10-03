@@ -1,0 +1,12 @@
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/bin/Debug/net5.0/StoreManagement.Models.deps.json
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/bin/Debug/net5.0/StoreManagement.Models.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/bin/Debug/net5.0/ref/StoreManagement.Models.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/bin/Debug/net5.0/StoreManagement.Models.pdb
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/StoreManagement.Models.csproj.AssemblyReference.cache
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/StoreManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/StoreManagement.Models.AssemblyInfoInputs.cache
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/StoreManagement.Models.AssemblyInfo.cs
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/StoreManagement.Models.csproj.CoreCompileInputs.cache
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/StoreManagement.Models.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/ref/StoreManagement.Models.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.Models/obj/Debug/net5.0/StoreManagement.Models.pdb

@@ -1,0 +1,15 @@
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/bin/Debug/net5.0/StoreManagement.BL.deps.json
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/bin/Debug/net5.0/StoreManagement.BL.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/bin/Debug/net5.0/ref/StoreManagement.BL.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/bin/Debug/net5.0/StoreManagement.BL.pdb
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/bin/Debug/net5.0/StoreManagement.Models.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/bin/Debug/net5.0/StoreManagement.Models.pdb
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.csproj.AssemblyReference.cache
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.AssemblyInfoInputs.cache
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.AssemblyInfo.cs
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.csproj.CoreCompileInputs.cache
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.csproj.CopyComplete
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/ref/StoreManagement.BL.dll
+/home/gesare/Documents/womentechsters/C#/week 14/main task/StoreManagement/StoreManagement.BL/obj/Debug/net5.0/StoreManagement.BL.pdb
